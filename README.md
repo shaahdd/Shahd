@@ -56,18 +56,16 @@ I'm a Computer Science student at the Faculty of Computers and Information Scien
 ## 📫 Connect With Me
 
 <p align="left">
-<a href="mailto:favshahd9@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-favshahd9%40gmail.com-red?style=for-the-badge&logo=gmail"/>
-</a>
+  <a href="mailto:favshahd9@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-<a href="https://github.com/shaahdd">
-<img src="https://img.shields.io/badge/GitHub-shaahdd-black?style=for-the-badge&logo=github"/>
-</a>
+  <a href="https://github.com/shaahdd" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/shahd-elmorsy-76451a341/">
-<img src="https://img.shields.io/badge/LinkedIn-Shahd_Elmorsy-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+  <a href="https://www.linkedin.com/in/shahd-elmorsy-76451a341/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
-
----
 
